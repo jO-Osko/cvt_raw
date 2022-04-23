@@ -1,0 +1,6 @@
+Census3valentVTplaces.txt.lfstxt filter=lfs diff=lfs merge=lfs -text
+Census3valentVTproperties.txt.lfstxt filter=lfs diff=lfs merge=lfs -text
+Census3valentVTgraphs.txt.lfstxt filter=lfs diff=lfs merge=lfs -text
+discretezoo.db filter=lfs diff=lfs merge=lfs -text
+OrderOfStab.txt filter=lfs diff=lfs merge=lfs -text
+ImportCubicVTcensus.mgm filter=lfs diff=lfs merge=lfs -text
